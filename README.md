@@ -1,6 +1,6 @@
-# BERT(indobert) dan LSTM-analysis
+# BERT (indobert) dan LSTM-analysis
 
-Merupakan proyek tugas akhir (skripsi) Muhammad Fadhillah Harahap yang membahas analisis sentimen terhadap kendaraan listrik menggunakan model BER(IndoBERT) dan LSTM.
+Merupakan proyek tugas akhir (skripsi) Fadhil Harahap yang membahas analisis sentimen terhadap kendaraan listrik menggunakan model BER(IndoBERT) dan LSTM.
 
 ## 🔍 Tujuan
 Menganalisis opini masyarakat melalui media sosial dan membandingkan performa dua model klasifikasi teks: BERT(IndoBERT) dan LSTM.
