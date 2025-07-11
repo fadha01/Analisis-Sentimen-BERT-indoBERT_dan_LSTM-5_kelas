@@ -7,6 +7,7 @@ Menganalisis opini masyarakat melalui media sosial dan membandingkan performa du
 
 ## 📊 Dataset
 Dataset dikumpulkan dari media sosial (X, Instagram, TikTok) berjumlah 5.172 komentar, diklasifikasikan menjadi lima (5) kategori sentimen.
+
 <img width="229" height="81" alt="Image" src="https://github.com/user-attachments/assets/f6996953-944e-4fa7-8427-feed42ec6067" />
 
 ## 📈 Model
