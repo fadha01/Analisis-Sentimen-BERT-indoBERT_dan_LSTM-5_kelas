@@ -13,7 +13,7 @@ Dataset penelitian diperoleh dari media sosial (X, Instagram, dan TikTok) sebany
 - **IndoBERT** (akurasi: 91%)
 - **LSTM** (akurasi: 32%)
 
-## 🚀 Tools
+## 🛠️ Tools
 - Python
 - Google Colaboratory
 - Streamlit
